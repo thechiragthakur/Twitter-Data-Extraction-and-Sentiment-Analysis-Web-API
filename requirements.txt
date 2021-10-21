@@ -12,4 +12,3 @@ tweepy==3.10.0
 textblob==0.15.3
 Pillow==8.4.0
 scikit_learn==1.0
-streamlit
